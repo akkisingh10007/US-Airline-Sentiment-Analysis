@@ -1,6 +1,6 @@
-##Twitter-US-Airline-Sentiment-Analysis
+Twitter-US-Airline-Sentiment-Analysis
 
-#Breakdown of this notebook:
+Breakdown of this notebook:
 
     1. Loading the dataset: Load the data and import the libraries.
     2. Data Preprocessing:
